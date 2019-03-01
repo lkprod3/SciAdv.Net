@@ -5,8 +5,45 @@
     <ReservedCharacterRange Start="E12F" End="E2AF" />
   </Game>
 
+  <Game Name="SteinsGateHD" FriendlyName="Steins;Gate">
+    <Aliases>steinsgatehd;sghd</Aliases>
+    <ReservedCharacterRange Start="E12F" End="E2AF" />
+  </Game>
+
+  <Game Name="SteinsGatePhenogram" FriendlyName="Steins;Gate Pheno">
+    <Aliases>sglbp;lbp</Aliases>
+    <ReservedCharacterRange Start="E12F" End="E2AF" />
+  </Game>
+  
+  <Game Name="SteinsGateElite" FriendlyName="Steins;Gate Elite">
+    <Aliases>sge;sgelite</Aliases>
+    <ReservedCharacterRange Start="E12F" End="E2AF" />
+  </Game>
+
   <Game Name="ChaosChild" FriendlyName="Chaos;Child">
     <Aliases>chaoschild;cc</Aliases>
     <ReservedCharacterRange Start="E12F" End="E2AF" />
   </Game>
+  
+   <Game Name="RoboticsNotes" FriendlyName="Robotics;Notes">
+    <Aliases>roboticsnotes;rn</Aliases>
+    <ReservedCharacterRange Start="E12F" End="E2AF" />
+  </Game>
+
+<!--   <Game Name="RoboticsNotesDaSH" FriendlyName="Robotics;Notes DaSH">
+    <Aliases>rndash;dash</Aliases>
+    <ReservedCharacterRange Start="E12F" End="E2AF" />
+  </Game> -->
+
+   <Game Name="ChaosHeadLoveChuChu" FriendlyName="Chaos;Head LCC!">
+    <Aliases>chlcc;lcc1</Aliases>
+    <ReservedCharacterRange Start="E12F" End="E2AF" />
+  </Game>
+
+<!--   <Game Name="ChaosChildLoveChuChu" FriendlyName="Chaos;Child LCC!!">
+    <Aliases>cclcc;lcc2</Aliases>
+    <ReservedCharacterRange Start="E12F" End="E2AF" />
+  </Game> -->
 </Games>
+
+

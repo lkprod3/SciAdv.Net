@@ -6,7 +6,9 @@
         SteinsGateZero,
         SteinsGateHD,
         SteinsGatePhenogram,
+        SteinsGateElite,
         ElevenEyes,
+        ChaosHeadLoveChuChu,
         ChaosChild,
         RoboticsNotes
     }
