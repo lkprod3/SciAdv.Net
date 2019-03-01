@@ -14,6 +14,11 @@
     <Aliases>sglbp;lbp</Aliases>
     <ReservedCharacterRange Start="E12F" End="E2AF" />
   </Game>
+
+<!--  <Game Name="SteinsGateDarling" FriendlyName="Steins;Gate Darling">
+    <Aliases>sgdarling;darling</Aliases>
+    <ReservedCharacterRange Start="E12F" End="E2AF" />
+  </Game> -->
   
   <Game Name="SteinsGateElite" FriendlyName="Steins;Gate Elite">
     <Aliases>sge;sgelite</Aliases>
