@@ -10,6 +10,8 @@
         ElevenEyes,
         ChaosHeadLoveChuChu,
         ChaosChild,
-        RoboticsNotes
+        ChaosChildLoveChuChu,
+        RoboticsNotes,
+        RoboticsNotesDaSH
     }
 }
